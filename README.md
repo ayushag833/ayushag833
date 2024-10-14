@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushag833&label=Profile%20views&color=0e75b6&style=flat" alt="ayushag833" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushag833" alt="ayushag833" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ayushag833&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on **Crazy TypeWriter**
 
@@ -23,5 +24,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayushag833&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushag833&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushag833&theme=dark&hide_border=false) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushag833&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+
