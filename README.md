@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Crazy TypeWriter**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **New Technologies**
 
-- 💬 Ask me about **Web development**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **ayushaggarwal600@gmail.com**
 
