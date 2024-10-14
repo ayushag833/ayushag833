@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushag833" alt="ayushag833" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ayushag600" target="blank"><img src="https://img.shields.io/twitter/follow/ayushag600?logo=twitter&style=for-the-badge" alt="ayushag600" /></a> </p>
-
 - 🔭 I’m currently working on **Crazy TypeWriter**
 
 - 🌱 I’m currently learning **NextJS**
