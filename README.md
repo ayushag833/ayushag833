@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Aggarwal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushag833&label=Profile%20views&color=0e75b6&style=flat" alt="ayushag833" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushag833&label=Profile%20views&color=0e75b6&style=flat" alt="ayushag833" /> </p> -->
 
 - 🔭 I’m currently working on **Cozy Buddy**
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Engineering**
 
-- 📫 How to reach me **ayushaggarwal600@gmail.com**
+- 📫 Reach me at **ayushaggarwal600@gmail.com**
 
 <!-- ## 🌐 Socials:
 
