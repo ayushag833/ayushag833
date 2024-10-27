@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushag833&label=Profile%20views&color=0e75b6&style=flat" alt="ayushag833" /> </p>
 
-- 🔭 I’m currently working on **Crazy TypeWriter**
+- 🔭 I’m currently working on **Cozy Buddy**
 
 - 🌱 I’m currently learning **New Technologies**
 
