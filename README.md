@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cozy Buddy**
 
-- 🌱 I’m currently learning **Graphql and Nest.js**
+- 🌱 I’m currently learning **Graphql, Nest.js and AWS**
 
 - 💬 Ask me about **Software Engineering**
 
